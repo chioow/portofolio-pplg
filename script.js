@@ -43,7 +43,7 @@ const EN = {
   '.tentang p:nth-of-type(2)': 'My name is Muhammad Ibad Alhamdi. I have been interested in the IT world since junior high school.',
   '.tentang p:nth-of-type(3)': 'Besides coding, I also enjoy games and reading fiction, two things that are closely related to the logical and creative thinking I need in programming.',
   '.biodata li:nth-child(1)': '<strong>Name:</strong> Muhammad Ibad Alhamdi',
-  '.biodata li:nth-child(2)': '<strong>Major:</strong> Software Engineering',
+  '.biodata li:nth-child(2)': '<strong>Major:</strong> RPL',
   '.biodata li:nth-child(3)': '<strong>School:</strong> SMK Krian 1 Sidoarjo',
   '.biodata li:nth-child(4)': '<strong>Interests:</strong> Games, coding, and fiction',
 
