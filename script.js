@@ -31,7 +31,7 @@ const EN = {
   '.navbar__menu a:nth-child(3)': 'About Me',
 
   '.hero__sapaan': 'Hello, I am',
-  '.hero__peran': ' RPL Student | Gamer',
+  '.hero__peran': 'RPL Student | Gamer',
   '.hero__deskripsi': 'I am a student interested in web development, web design, and various programming languages.',
   '.tombol-grup .btn--solid': 'View Projects',
 
